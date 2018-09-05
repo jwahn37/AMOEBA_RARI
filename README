@@ -1,0 +1,9 @@
+Logic Classification by JINU
+
+It is zonna easy!
+you put your data file into new_datas folder.(the folder should be empty!)
+and command like below
+$sh data_modeling.sh
+then it will output new modeling value! finish!HAPPYPPY
+
+*ref : http://csmylov.blogspot.com/2018/07/shell.html
