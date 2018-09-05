@@ -1,6 +1,6 @@
 Logic Classification by JINU
 
-It is zonna easy!
+It is easy!
 you put your data file into new_datas folder.(the folder should be empty!)
 and command like below
 $sh data_modeling.sh
